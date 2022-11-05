@@ -1,0 +1,18 @@
+As principais variáveis que temos no JS é a let e const
+
+let = é uma variável que pode ser modificada.
+const = é uma variável que não pode ser modificada.
+
+O igual ( = ) é um operador de atribuição.
+
+Os operadores matematicos são representados pelos os símbolos: + - * /
+
+
+## Desafio - Faça um programa para calcular o valor de uma viagem.
+
+Você terá 3 variáveis. Sendo elas:
+1 - Preço do combustével;
+2 - Gasto médio de combustível do carro por KM;
+3 - Distância em KM da viagem;
+
+Imprima no console o valor que será gasto para realizar esta viagem.
